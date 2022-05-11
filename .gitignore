@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+
+#result
+/result
+
+#other
+gulpfile.js
+package-lock.json
+package.json
